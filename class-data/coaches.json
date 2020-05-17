@@ -106,5 +106,15 @@
         "role": "assistant"
       }
     ]
+  },
+  {
+    "name": "Dirk Jacobs",
+    "userName": "dirk-jacobs",
+    "modules": [
+      {
+        "repoName": "incremental-development",
+        "role": "homework"
+      }
+    ]
   }
 ]

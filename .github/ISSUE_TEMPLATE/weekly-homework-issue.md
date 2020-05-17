@@ -1,7 +1,7 @@
 ---
 name: Weekly homework issue
 about: A starter for your weekly homework issues, modify it however makes sense for the week's assignments!  see a completed example here https://github.com/HackYourFutureBelgium/class-8/issues/285
-title: 'Your Name: module name, Week number'
+title: 'Your Name: module name, week number, homework'
 labels: ''
 assignees: ''
 
@@ -15,13 +15,9 @@ assignees: ''
 
 ## Prep Work
 
-### topic 1
-
-- [ ] [...]()
-
-### topic ...
-
-- [ ] [...]()
+- [ ] topic 1
+- [ ] topic 2
+- [ ] ...
 
 ---
 
@@ -29,10 +25,8 @@ assignees: ''
 
 ### Isolate
 
-- [ ] `exercise-name`:
-  - [ ] [exercise - 1]()
-  - [ ] [exercise - 2]()
-  - [ ] [...]()
+- [ ] `exercises-name`
+- [ ] `exercises-name`
 
 ### Integrate
 
@@ -46,7 +40,9 @@ assignees: ''
 
 ### Suggested Study
 
-- [ ] [link name]()
+- [ ] topic 1
+- [ ] topic 2
+- [ ] ...
 
 #### Exercises: Isolate
 
