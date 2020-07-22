@@ -11,27 +11,29 @@ This creates a function func that accepts arguments arg1..argN, then evaluates t
 
 In other words, it’s the shorter version of:
 
-> let func = function(arg1, arg2, ...argN) {
-> 
->  return expression;
-> 
-> };
+```js
+let func = function(arg1, arg2, ...argN) {
+
+ return expression;
+
+};
+```
 
 Let’s see a concrete example:
 
->let sum = (a, b) => a + b;
->
->/* This arrow function is a shorter form of:
->
->let sum = function(a, b) {
->
->  return a + b;
-> 
->};
->
->*/
->
->alert( sum(1, 2) ); // 3
+```js
+let sum = (a, b) => a + b;
+
+// This arrow function is a shorter form of:
+
+let sum = function(a, b) {
+
+  return a + b;
+ 
+};
+
+alert( sum(1, 2) ); // 3
+```
 
 As you can, see (a, b) => a + b means a function that accepts two arguments named a and b. Upon the execution, it evaluates the expression a + b and returns the result.
 
@@ -39,31 +41,37 @@ If we have only one argument, then parentheses around parameters can be omitted,
 
 For example:
 
->let double = n => n * 2;
->
->// roughly the same as: let double = function(n) { return n * 2 }
->
->alert( double(3) ); // 6
+```js
+let double = n => n * 2;
+
+// roughly the same as: let double = function(n) { return n * 2 }
+
+alert( double(3) ); // 6
+```
 
 If there are no arguments, parentheses will be empty (but they should be present):
 
->let sayHi = () => alert("Hello!");
->
->sayHi();
+```js
+let sayHi = () => alert("Hello!");
+
+sayHi();
+```
 
 _Arrow functions_ can be used in the same way as _Function Expressions_.
 
 For instance, to dynamically create a function:
 
->let age = prompt("What is your age?", 18);
->
->let welcome = (age < 18) ?
->
->  () => alert('Hello') :
-> 
->  () => alert("Greetings!");
->
->welcome();
+```js
+let age = prompt("What is your age?", 18);
+
+let welcome = (age < 18) ?
+
+  () => alert('Hello') :
+ 
+  () => alert("Greetings!");
+
+welcome();
+```
 
 Arrow functions may appear unfamiliar and not very readable at first, but that quickly changes as the eyes get used to the structure.
 
@@ -77,13 +85,14 @@ Sometimes we need something a little bit more complex, like multiple expressions
 
 **Like this:**
 
->let sum = (a, b) => {  // the curly brace opens a multiline function
->
->  let result = a + b;
-> 
->  return result; // if we use curly braces, then we need an explicit "return"
-> 
->};
->
->alert( sum(1, 2) ); // 3
+```js
+let sum = (a, b) => {  // the curly brace opens a multiline function
 
+  let result = a + b;
+ 
+  return result; // if we use curly braces, then we need an explicit "return"
+ 
+};
+
+alert( sum(1, 2) ); // 3
+```
