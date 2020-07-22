@@ -1,6 +1,6 @@
 # Objects
 
-## Let's Study Object And Object Methods with me
+## Let's Study Object And Object Methods with me :smile: 
 
 ### object literal
 
