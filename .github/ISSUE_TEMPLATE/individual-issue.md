@@ -22,8 +22,6 @@ assignees: ''
 
 <!-- confirm that you prepared for Sunday -->
 - [ ] Sunday Prep
-<!-- send a pull request to this module's shared-notes, link to your PR -->
-- [ ] [PR to /shared-notes]()
 
 <!-- the next 4 headers are for Wednesday Check-In -->
 ### Progress
@@ -32,7 +30,18 @@ assignees: ''
 
 ### Next Steps
 
-### Helpful Tips
+### Shared Notes PR
+
+<!-- Contribute to the /shared-notes/module-name directory of you class repo
+  - A helpful link, diagram, image, or screen recording
+  - An important code snippet or example .js file
+  - A paragraph, or a new markdown file
+  - You might add something new, or contribute to something that's already there
+  - ... anything you found helpful this week -->
+
+<!-- link to this week's PR and briefly describe what you contributed and why -->
+> [/shared-notes PR]()
+
 
 ---
 
