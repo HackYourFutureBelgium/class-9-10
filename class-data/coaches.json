@@ -200,5 +200,25 @@
         "role": "assistant"
       }
     ]
+  },
+  {
+    "name": "Laurent",
+    "userName": "LaurentVB",
+    "modules": [
+      {
+        "repoName": "separation-of-concerns",
+        "role": "lead"
+      }
+    ]
+  },
+  {
+    "name": "Koen",
+    "userName": "koenvd",
+    "modules": [
+      {
+        "repoName": "separation-of-concerns",
+        "role": "lead"
+      }
+    ]
   }
 ]
