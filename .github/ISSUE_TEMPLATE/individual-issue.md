@@ -20,8 +20,10 @@ assignees: ''
 <!-- copy this section, once for each week -->
 ## Week X
 
-<!-- fill this out before Sunday -->
-- [ ] Sunday Prep - (confirm that you prepared)
+<!-- confirm that you prepared for Sunday -->
+- [ ] Sunday Prep
+<!-- send a pull request to this module's shared-notes, link to your PR -->
+- [ ] [PR to /shared-notes]()
 
 <!-- the next 4 headers are for Wednesday Check-In -->
 ### Progress
