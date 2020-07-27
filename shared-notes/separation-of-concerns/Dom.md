@@ -1,4 +1,4 @@
-# Common question in javascript Beginners
+# Common question in javascript Beginners :point_up:
 
 ## what is the difference between innerTex, innerHTML and input.value
 
