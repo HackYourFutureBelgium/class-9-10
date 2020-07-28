@@ -1,8 +1,8 @@
 ---
 name: Roll Call
 about: A template issue for roll calls
-title: 'module name, week number, Sunday Roll Call'
-labels: 'roll-call'
+title: module name, week number, Sunday Roll Call
+labels: roll-call
 assignees: ''
 
 ---

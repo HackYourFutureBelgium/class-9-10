@@ -1,8 +1,8 @@
 ---
-name: your name, module name
+name: individual
 about: A template for individual module issues
 title: 'Your Name: Module Name'
-labels: 'individual'
+labels: individual
 assignees: ''
 
 ---

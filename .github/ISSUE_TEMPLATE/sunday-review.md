@@ -1,8 +1,9 @@
 ---
 name: Sunday Review
-about: A template issue for Sunday Review questions.  This template has a lot of sections to get you thinking about your problem, you don't need to fill in every one of them
+about: A template issue for Sunday Review questions.  This template has a lot of sections
+  to get you thinking about your problem, you don't need to fill in every one of them
 title: 'Your Name: module, week, review'
-labels: 'sunday-review'
+labels: sunday-review
 assignees: ''
 
 ---

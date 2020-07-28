@@ -2,7 +2,7 @@
 name: Weekly homework issue
 about: A starter for your weekly homework issues
 title: 'Your Name: module name, week number, homework'
-labels: 'homework'
+labels: homework
 assignees: ''
 
 ---
