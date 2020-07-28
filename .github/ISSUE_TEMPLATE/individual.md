@@ -4,7 +4,6 @@ about: A template for individual module issues
 title: 'Your Name: Module Name'
 labels: 'individual'
 assignees: ''
-# assign yourself
 
 ---
 
