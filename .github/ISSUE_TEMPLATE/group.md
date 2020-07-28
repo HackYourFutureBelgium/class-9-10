@@ -1,8 +1,8 @@
 ---
-name: Group project issue
+name: group
 about: A template for group project issues
 title: 'Team Name: module name, week X'
-labels: 'group'
+labels: ''
 assignees: ''
 
 ---
