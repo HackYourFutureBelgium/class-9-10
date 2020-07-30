@@ -9,7 +9,9 @@ assignees: ''
 
 # Project Name
 
-> team name
+- _team name_
+- _project leader_
+- _repository owner_
 
 <!-- describe the project -->
 
