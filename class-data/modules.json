@@ -23,14 +23,14 @@
   {
     "number": 4,
     "repoName": "testing",
-    "status": "in progress",
+    "status": "done",
     "project": 4,
     "weeks": 3
   },
   {
     "number": 5,
     "repoName": "separation-of-concerns",
-    "status": "to do",
+    "status": "in progress",
     "project": 5,
     "weeks": 2,
     "repo": "new"
