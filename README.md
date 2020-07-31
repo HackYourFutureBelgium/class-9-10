@@ -6,7 +6,7 @@ This repository is yours to keep track of what you've covered so far, to get to 
 
 | Class Pages | How to HYF  |
 | --- | ---  |
-| [Class Overview](https://hackyourfuture.be/class-9-10) |  [HYF Home](https://home.hackyourfuture.be/home) |
+| [Class Overview](https://hackyourfuture.be/class-9-10) |  [HYF Home](https://home.hackyourfuture.be) |
 |  [Homework Boards](https://github.com/hackyourfuturebelgium/class-9-10/projects) |   [Study Links](https://study.hackyourfuture.be) |
 | [Class Issues](https://github.com/hackyourfuturebelgium/class-9-10/issues) |  |
 | [Shared Notes](./shared-notes) |

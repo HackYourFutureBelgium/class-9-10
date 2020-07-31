@@ -84,6 +84,10 @@
       {
         "repoName": "working-with-code",
         "role": "assistant"
+      },
+      {
+        "repoName": "testing",
+        "role": "assistant"
       }
     ]
   },
@@ -114,6 +118,106 @@
       {
         "repoName": "incremental-development",
         "role": "homework"
+      }
+    ]
+  },
+  {
+    "name": "Louise Picot",
+    "userName": "louisepicot",
+    "modules": [
+      {
+        "repoName": "incremental-development",
+        "role": "assistant"
+      }
+    ]
+  },
+  {
+    "name": "Kevin Tassi",
+    "userName": "kevintss",
+    "modules": [
+      {
+        "repoName": "incremental-development",
+        "role": "assistant"
+      }
+    ]
+  },
+  {
+    "name": "Dena Cho",
+    "userName": "denacho",
+    "modules": [
+      {
+        "repoName": "debugging",
+        "role": "assistant"
+      }
+    ]
+  },
+  {
+    "name": "Berihu Gebremedhin",
+    "userName": "Berihugebre",
+    "modules": [
+      {
+        "repoName": "debugging",
+        "role": "assistant"
+      }
+    ]
+  },
+  {
+    "name": "Maël Brunet",
+    "userName": "maeligg",
+    "modules": [
+      {
+        "repoName": "debugging",
+        "role": "lead"
+      }
+    ]
+  },
+  {
+    "name": "Unmesh Joshi",
+    "userName": "unmeshvrije",
+    "modules": [
+      {
+        "repoName": "debugging",
+        "role": "lead"
+      }
+    ]
+  },
+  {
+    "name": "Charles-Axel Pauwels",
+    "userName": "cpauwels",
+    "modules": [
+      {
+        "repoName": "testing",
+        "role": "lead"
+      }
+    ]
+  },
+  {
+    "name": "Sali AlMurshidi",
+    "userName": "Sali-Almurshidi",
+    "modules": [
+      {
+        "repoName": "testing",
+        "role": "assistant"
+      }
+    ]
+  },
+  {
+    "name": "Laurent",
+    "userName": "LaurentVB",
+    "modules": [
+      {
+        "repoName": "separation-of-concerns",
+        "role": "lead"
+      }
+    ]
+  },
+  {
+    "name": "Koen",
+    "userName": "koenvd",
+    "modules": [
+      {
+        "repoName": "separation-of-concerns",
+        "role": "lead"
       }
     ]
   }

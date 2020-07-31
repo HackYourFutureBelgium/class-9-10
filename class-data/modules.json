@@ -9,72 +9,79 @@
   {
     "number": 2,
     "repoName": "incremental-development",
-    "status": "to do",
+    "status": "done",
     "project": 2,
     "weeks": 3
   },
   {
     "number": 3,
     "repoName": "debugging",
-    "status": "to do",
+    "status": "done",
     "project": 3,
     "weeks": 2
   },
   {
     "number": 4,
     "repoName": "testing",
-    "status": "to do",
+    "status": "done",
     "project": 4,
     "weeks": 3
   },
   {
     "number": 5,
     "repoName": "separation-of-concerns",
-    "status": "to do",
+    "status": "in progress",
     "project": 5,
-    "weeks": 3
+    "weeks": 2,
+    "repo": "new"
   },
   {
     "number": 6,
     "repoName": "state",
     "status": "to do",
     "project": 6,
-    "weeks": 2
+    "weeks": 2,
+    "repo": "new"
   },
   {
     "number": 7,
     "repoName": "encapsulation",
     "status": "to do",
     "project": 7,
-    "weeks": 3
+    "weeks": 3,
+    "repo": "new"
   },
   {
     "number": 8,
     "repoName": "asynchronous-programming",
     "status": "to do",
     "project": 8,
-    "weeks": 3
+    "weeks": 3,
+    "repo": "new"
   },
   {
     "number": 9,
     "repoName": "web-apps",
     "status": "to do",
     "project": 9,
-    "weeks": 4
+    "weeks": 4,
+    "repo": "new"
   },
   {
     "number": 10,
-    "repoName": "data-modeling",
+    "repoName": "databases",
     "status": "to do",
     "project": 10,
-    "weeks": 2
+    "weeks": 2,
+    "repo": "new"
   },
   {
     "number": 11,
     "repoName": "frontend-frameworks",
     "status": "to do",
     "project": 11,
-    "weeks": 2
+    "weeks": 2,
+    "repo": "new"
   },
   {
     "number": 12,

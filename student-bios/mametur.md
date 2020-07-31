@@ -16,7 +16,7 @@
 
 ## Out of Coding, things  we can do together
 
-- runnig :runner:
+- running :runner:
 
 - hiking and camping :walking: :tent:
 

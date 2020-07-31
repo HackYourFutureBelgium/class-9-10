@@ -1,4 +1,4 @@
-# Data Modeling
+# Databases
 
 Reading and writing from JSON and .txt files is limited.  Learn how to model application data using SQL tables and Mongoose Schemas.
 
