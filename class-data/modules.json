@@ -2,7 +2,7 @@
   {
     "number": 1,
     "repoName": "working-with-code",
-    "status": "in progress",
+    "status": "done",
     "project": 1,
     "weeks": 1
   },
@@ -30,7 +30,7 @@
   {
     "number": 5,
     "repoName": "separation-of-concerns",
-    "status": "in progress",
+    "status": "done",
     "project": 5,
     "weeks": 2,
     "repo": "new"
@@ -38,7 +38,7 @@
   {
     "number": 6,
     "repoName": "state",
-    "status": "to do",
+    "status": "in progress",
     "project": 6,
     "weeks": 2,
     "repo": "new"
