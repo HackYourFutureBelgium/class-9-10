@@ -24,7 +24,7 @@ assignees: ''
 <!-- confirm that you have understood the Sunday lesson -->
 - [ ] Sunday Class
 <!-- link to your group's project issue for the week -->
-- [ ] [Group Project](link_to_issue)
+- [ ] [Project](link_to_issue)
 
 <!-- the next 4 headers are for Wednesday Check-In -->
 ### Progress
