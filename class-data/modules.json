@@ -30,7 +30,7 @@
   {
     "number": 5,
     "repoName": "separation-of-concerns",
-    "status": "in progress",
+    "status": "done",
     "project": 5,
     "weeks": 2,
     "repo": "new"
@@ -38,7 +38,7 @@
   {
     "number": 6,
     "repoName": "state",
-    "status": "to do",
+    "status": "done",
     "project": 6,
     "weeks": 2,
     "repo": "new"
@@ -46,7 +46,7 @@
   {
     "number": 7,
     "repoName": "encapsulation",
-    "status": "to do",
+    "status": "in progress",
     "project": 7,
     "weeks": 3,
     "repo": "new"

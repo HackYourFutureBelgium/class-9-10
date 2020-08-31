@@ -33,18 +33,7 @@ assignees: ''
 
 ### Next Steps
 
-### Shared Notes PR
-
-<!-- Contribute to the /shared-notes/module-name directory of you class repo
-  - A helpful link, diagram, image, or screen recording
-  - An important code snippet or example .js file
-  - A paragraph, or a new markdown file
-  - You might add something new, or contribute to something that's already there
-  - ... anything you found helpful this week -->
-
-<!-- link to this week's PR and briefly describe what you contributed and why -->
-> [/shared-notes PR]()
-
+### Tip(s) of the week
 
 ---
 
