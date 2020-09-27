@@ -46,7 +46,7 @@
   {
     "number": 7,
     "repoName": "encapsulation",
-    "status": "in progress",
+    "status": "done",
     "project": 7,
     "weeks": 3,
     "repo": "new"
@@ -54,7 +54,7 @@
   {
     "number": 8,
     "repoName": "asynchronous-programming",
-    "status": "to do",
+    "status": "in progress",
     "project": 8,
     "weeks": 3,
     "repo": "new"
