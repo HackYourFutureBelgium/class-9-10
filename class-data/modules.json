@@ -54,7 +54,7 @@
   {
     "number": 8,
     "repoName": "asynchronous-programming",
-    "status": "in progress",
+    "status": "done",
     "project": 8,
     "weeks": 3,
     "repo": "new"
@@ -62,7 +62,7 @@
   {
     "number": 9,
     "repoName": "web-apps",
-    "status": "to do",
+    "status": "in progress",
     "project": 9,
     "weeks": 4,
     "repo": "new"
