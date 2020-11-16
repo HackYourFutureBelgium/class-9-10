@@ -62,7 +62,7 @@
   {
     "number": 9,
     "repoName": "web-apps",
-    "status": "in progress",
+    "status": "done",
     "project": 9,
     "weeks": 4,
     "repo": "new"
@@ -70,7 +70,7 @@
   {
     "number": 10,
     "repoName": "databases",
-    "status": "to do",
+    "status": "in progress",
     "project": 10,
     "weeks": 2,
     "repo": "new"
